@@ -66,7 +66,7 @@ I'm a passionate Computer Engineering student at UADE (third year) with a strong
   <a href="https://github.com/JBE10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
   </a>
-  <a href="https://jbe10.github.io/CV/" target="_blank">
+  <a href="https://jbe-cv.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" height="35" alt="Portfolio" />
   </a>
   <a href="mailto:bautiespino@icloud.com" target="_blank">
