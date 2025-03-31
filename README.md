@@ -27,11 +27,12 @@ I'm a passionate Computer Engineering student at UADE (third year) with a strong
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
 </div>
 
+
 ---
 
-### 📊 GitHub Contributions (Last 6 Months)
+### 📈 Top Languages
 <div align="center">
-  <img src="https://ghchart.rshah.org/JBE10" alt="GitHub Contributions Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBE10&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ---
