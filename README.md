@@ -29,23 +29,31 @@ I'm a passionate Computer Engineering student at UADE (third year) with a strong
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contributions (Last 6 Months)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JBE10&locale=en&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://ghchart.rshah.org/JBE10" alt="GitHub Contributions Chart" />
 </div>
 
 ---
 
 ### 🏆 Notable Projects
-🔹 **Sales Management System** – A system for tracking sales and stock using **Java & Swing**.
+- **Sales Management System**  
+  A system for tracking sales and stock using **Java & Swing**.  
 
-🔹 **Route Optimization** – Implemented **Dijkstra's Algorithm** for resource management efficiency.
 
-🔹 **Portfolio Website** – A fully responsive personal portfolio built with **HTML, CSS & JavaScript**.
+- **Route Optimization**  
+  Implementation of **Dijkstra's Algorithm** to enhance route planning and logistics efficiency.  
 
-🔹 **Cybersecurity Automation** – Automating security tasks using **Python** and Google certifications.
 
-🔹 **SQL & Database Management** – Designed and optimized databases using **MySQL & MS SQL Server**.
+- **Portfolio Website**  
+  A fully responsive personal portfolio built with **HTML, CSS & JavaScript**.  
+  [🔗 Live Site](https://jbe10.github.io/CV/)
+
+- **Cybersecurity Automation**  
+  Automating security tasks using **Python** in line with Google cybersecurity certifications.
+
+- **SQL & Database Management**  
+  Designing and optimizing databases with **MySQL, MS SQL Server & MongoDB**.
 
 ---
 
@@ -64,4 +72,3 @@ I'm a passionate Computer Engineering student at UADE (third year) with a strong
     <img src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" height="35" alt="Email" />
   </a>
 </div>
-
