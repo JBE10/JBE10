@@ -1,53 +1,67 @@
-<h2 align="left">Hi 👋! My name is Juan Bautista Espino and I'm a Computer Engineering Student, from Buenos Aires 🇦🇷</h2>
+## Hi there! 👋 I'm Juan Bautista Espino
 
-###
+🎓 **Computer Engineering Student | Backend & Cybersecurity Enthusiast**  
+📍 Buenos Aires, Argentina 🇦🇷
 
-<div align="center">
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JBE10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🚀 About Me
+I'm a passionate Computer Engineering student at UADE (third year) with a strong interest in **backend development** and **cybersecurity**. I enjoy solving problems through code, optimizing systems, and continuously learning new technologies.
 
-###
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM1cmRra3V5eWU0N3U0b2F4Z2N5dHZ4dGd2b2J6eG5mYjN5NnJvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcB8XospGZO8UCRq7/giphy.gif"  />
-
-###
-
+### 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
 </div>
 
-###
+---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JBE10&locale=en&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 Notable Projects
+🔹 **Sales Management System** – A system for tracking sales and stock using **Java & Swing**.
+
+🔹 **Route Optimization** – Implemented **Dijkstra's Algorithm** for resource management efficiency.
+
+🔹 **Portfolio Website** – A fully responsive personal portfolio built with **HTML, CSS & JavaScript**.
+
+🔹 **Cybersecurity Automation** – Automating security tasks using **Python** and Google certifications.
+
+🔹 **SQL & Database Management** – Designed and optimized databases using **MySQL & MS SQL Server**.
+
+---
+
+### 📬 Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/jbespino/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="https://github.com/JBE10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
   </a>
   <a href="https://jbe10.github.io/CV/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" height="35" alt="Portfolio" />
   </a>
   <a href="mailto:bautiespino@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=icloud&label=&color=3693F3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+    <img src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" height="35" alt="Email" />
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JBE10/JBE10/output/snake.svg" alt="Snake animation" />
