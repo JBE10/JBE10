@@ -47,8 +47,8 @@ I'm a passionate Computer Engineering student at UADE (third year) with a strong
 
 
 - **Portfolio Website**  
-  A fully responsive personal portfolio built with **HTML, CSS & JavaScript**.  
-  [🔗 Live Site](https://jbe10.github.io/CV/)
+  A fully responsive personal portfolio built with **TypeScript, React, Next.js & Tailwind CSS **.  
+  [🔗 Live Site](https://jbe-cv.vercel.app/)
 
 - **Cybersecurity Automation**  
   Automating security tasks using **Python** in line with Google cybersecurity certifications.
