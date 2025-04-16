@@ -10,6 +10,7 @@ I'm a passionate Computer Engineering student at UADE with a strong interest in 
 
 ---
 
+
 ### 🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
