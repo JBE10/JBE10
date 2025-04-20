@@ -55,6 +55,11 @@ I'm a passionate Computer Engineering student at UADE with a strong interest in 
   A fully responsive personal portfolio built with **TypeScript, React, Next.js & Tailwind CSS **.  
   [🔗 Live Site](https://jbe-cv.vercel.app/)
 
+
+
+
+  
+
 - **Cybersecurity Automation**  
   Automating security tasks using **Python** in line with Google cybersecurity certifications.
 
