@@ -61,6 +61,10 @@ I'm a passionate Computer Engineering student at UADE with a strong interest in 
 - **SQL & Database Management**  
   Designing and optimizing databases with **MySQL, MS SQL Server & MongoDB**.
 
+
+
+
+
 ---
 
 
