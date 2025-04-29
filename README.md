@@ -51,7 +51,9 @@ I'm a passionate Computer Engineering student at UADE with a strong interest in 
 
 
 - **Route Optimization**  
-  Implementation of **Dijkstra's Algorithm** to enhance route planning and logistics efficiency.  
+  Implementation of **Dijkstra's Algorithm** to enhance route planning and logistics efficiency.
+
+  
 
 
 - **Portfolio Website**  
