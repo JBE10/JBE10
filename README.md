@@ -68,6 +68,7 @@ I'm a passionate Computer Engineering student at UADE with a strong interest in 
 
 - **Cybersecurity Automation**  
   Automating security tasks using **Python** in line with Google cybersecurity certifications.
+  
 
 - **SQL & Database Management**  
   Designing and optimizing databases with **MySQL, MS SQL Server & MongoDB**.
