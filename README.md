@@ -62,7 +62,9 @@ I'm a passionate Computer Engineering student at UADE with a strong interest in 
 ---
 
 ### 🏆 Notable Projects
-- **Sales Management System**  
+- **Sales Management System**
+
+- 
   A system for tracking sales and stock using **Java & Swing**.  
 
 
